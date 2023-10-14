@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-ten-theta-59.vercel.app/](https://portfolio-ten-theta-59.vercel.app/)
 
-- 🔭 I'm currently working on [https://audio-e-commerce-blazejpak.vercel.app/](https://audio-e-commerce-blazejpak.vercel.app/)
+- 🔭 I'm currently working on Kanban task management web app
 
 - 📫 How to reach me **blazej.pak@gmail.com**
 
