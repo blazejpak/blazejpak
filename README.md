@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Błażej</h1>
 <h3 align="center">A passionate front-end developer.</h3>
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Typescript**, **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-ten-theta-59.vercel.app/](https://portfolio-ten-theta-59.vercel.app/)
 
-- 🔭 I'm currently working on Kanban task management web app
+- 🔭 I'm currently working on [Kanban task management web app](https://kanban-app-blazejpak.vercel.app/)
 
 - 📫 How to reach me **blazej.pak@gmail.com**
 
