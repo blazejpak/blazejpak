@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-ten-theta-59.vercel.app/](https://portfolio-ten-theta-59.vercel.app/)
 
-- 🔭 I'm currently working on [[PlanSync](https://modisto-ecommerce.vercel.app/)]
+- 🔭 I'm currently working on [PlanSync](https://modisto-ecommerce.vercel.app/)
 
 - 📫 How to reach me **blazej.pak@gmail.com**
 
